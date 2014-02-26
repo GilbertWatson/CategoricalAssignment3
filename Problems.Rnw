@@ -1,0 +1,38 @@
+\documentclass{article}
+
+\usepackage{enumerate}
+\usepackage{amsmath}
+
+\title{Categorical Data Analysis: Homework 3}
+\author{Gilbert Watson}
+\date{\today}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\maketitle
+
+\section*{2.15}
+
+First let's create the table:
+
+<<table>>=
+admissions <- array(Department)
+@
+
+
+\begin{enumerate}[a.]
+
+\end{enumerate}
+
+\section*{2.32}
+
+\section*{3.16}
+
+\section*{11.3}
+
+\section*{11.7}
+
+\section*{11.5}
+
+\end{document}
